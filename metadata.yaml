@@ -17,6 +17,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1626
     wikipedia: http://en.wikipedia.org/wiki/Edward_Stratemeyer
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/30841#The-Rover-Boys-in-the-Land-of-Luck--Or-Stirring-Adventures-in-the-Oil-Fields
 gutenberg_issued: '2010-01-04'
 gutenberg_type: Text
 identifiers:
